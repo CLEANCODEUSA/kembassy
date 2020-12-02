@@ -1,4 +1,4 @@
-AuthUserFile /Users/vanbeek/Sites/www.cm.phprhinos.com/.htpasswd
+AuthUserFile /Users/vanbeek/Sites/www.kembassy.phprhinos.com/.htpasswd
 AuthType Basic
 AuthName "review"
 Require valid-user
